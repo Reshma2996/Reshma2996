@@ -1,4 +1,6 @@
 ### Greetings Viewers 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/reshmaRpillai)
+
 # About Me
 
 Welcome to my GitHub profile! I am a seasoned IT professional with six years of experience in diverse technologies such as Informatica, SQL, Unix, and Blue Yonder JDA. Additionally, I am a certified Business Analysis professional.
